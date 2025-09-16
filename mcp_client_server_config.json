@@ -1,0 +1,12 @@
+{
+    "server_port": 5000,
+    "debug_mode": true,
+    "ssl_cert_path": "ssl/cert.pem",
+    "ssl_key_path": "ssl/key.pem",
+    "log_level": "INFO",
+    "timeout": 30,
+    "server_url": "http://127.0.0.1:5000",
+    "verify_ssl": false,
+    "retry_count": 3,
+    "retry_delay": 2
+}
